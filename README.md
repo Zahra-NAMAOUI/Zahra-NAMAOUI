@@ -1,4 +1,4 @@
-# Fatimazahra Namaoui
+<h1 align="center">Hi 👋, I'm Fatimazahra Namaoui</h1>
 ### Data & AI Engineering Student | Big Data Architecture | LLM Systems
 
 Engineering student specializing in Data Science, Big Data & AI, with a double competence in Full Stack development. Building production-ready ML systems, RAG architectures, and scalable data pipelines. Passionate about bridging the gap between data engineering and intelligent applications.
