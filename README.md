@@ -35,13 +35,13 @@
 
 ## 📌 Featured Projects
 
-### 🤖 [AI Chatbot with LLM & RAG](https://github.com/Zahra-NAMAOUI/AI-Chatbot-with-LLM-)
-Conversational AI system using local LLMs (Ollama), containerized deployment, and REST API.  
-**Stack:** Python • FastAPI • Docker • Ollama 
-
 ### 🌱 [Plant Disease Detection](https://github.com/Zahra-NAMAOUI/plant-disease-detection)
 Deep CNN pipeline (TensorFlow) for automated crop disease diagnosis from leaf images, with data augmentation and model evaluation.  
 **Stack:** Python • TensorFlow • Keras • OpenCV
+
+### 🤖 [AI Chatbot with LLM & RAG](https://github.com/Zahra-NAMAOUI/AI-Chatbot-with-LLM-)
+Conversational AI system using local LLMs (Ollama), containerized deployment, and REST API.  
+**Stack:** Python • FastAPI • Docker • Ollama 
 
 ### 💧 [WaterSaver — IoT Agricultural Intelligence](https://github.com/Zahra-NAMAOUI/watersaver-iot)
 Smart water management platform with IoT sensors, real-time anomaly detection, and Oracle DB architecture for irrigation optimization.  
