@@ -35,7 +35,7 @@
 
 ## 📌 Featured Projects
 
-### 🌱 [Plant Disease Detection](https://github.com/Zahra-NAMAOUI/plant-disease-detection)
+### 🌱 [Plant Disease Detection](https://github.com/Zahra-NAMAOUI/plant-disease-detector)
 Deep CNN pipeline (TensorFlow) for automated crop disease diagnosis from leaf images, with data augmentation and model evaluation.  
 **Stack:** Python • TensorFlow • Keras • OpenCV
 
