@@ -1,11 +1,11 @@
-&lt;h1 align="center"&gt;Hi 👋, I'm Fatimazahra Namaoui&lt;/h1&gt;
-&lt;h3 align="center"&gt;Data & AI Engineering Student | Big Data • LLM Systems • Full Stack&lt;/h3&gt;
+<h1 align="center">Hi 👋, I'm Fatimazahra Namaoui</h1>
+<h3 align="center">Data & AI Engineering Student | Big Data • LLM Systems • Full Stack</h3>
 
-&lt;p align="center"&gt;
-  Engineering student at ENSA Agadir, specializing in Data Science, Big Data & AI.&lt;br/&gt;
-  Building ML systems, RAG architectures, and scalable data pipelines.&lt;br/&gt;
+<p align="center">
+  Engineering student at ENSA Agadir, specializing in Data Science, Big Data & AI.<br/>
+  Building ML systems, RAG architectures, and scalable data pipelines.<br/>
   📍 Agadir, Morocco | 🔍 Seeking PFA Internship 2026
-&lt;/p&gt;
+</p>
 
 ---
 
@@ -16,7 +16,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM/RAG-000000?style=flat&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 **Big Data & Infrastructure**
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
@@ -36,34 +36,34 @@
 ## 📌 Featured Projects
 
 ### 🤖 [AI Chatbot with LLM & RAG](https://github.com/Zahra-NAMAOUI/AI-Chatbot-with-LLM-)
-Conversational AI system using local LLMs (Ollama) with retrieval-augmented generation, containerized deployment, and REST API.  
+Conversational AI system using local LLMs (Ollama) with retrieval-augmented generation, containerized deployment, and REST API.
 **Stack:** Python • FastAPI • Docker • Ollama • RAG
 
 ### 🌱 [Plant Disease Detection](https://github.com/Zahra-NAMAOUI/plant-disease-detection)
-Deep CNN pipeline (TensorFlow) for automated crop disease diagnosis from leaf images, with data augmentation and model evaluation.  
+Deep CNN pipeline (TensorFlow) for automated crop disease diagnosis from leaf images, with data augmentation and model evaluation.
 **Stack:** Python • TensorFlow • Keras • OpenCV
 
 ### 💧 [WaterSaver — IoT Agricultural Intelligence](https://github.com/Zahra-NAMAOUI/watersaver-iot)
-Smart water management platform with IoT sensors, real-time anomaly detection, and Oracle DB architecture for irrigation optimization.  
+Smart water management platform with IoT sensors, real-time anomaly detection, and Oracle DB architecture for irrigation optimization.
 **Stack:** IoT • Oracle PL/SQL • Python • Data Engineering
 
 ### 🏥 [Medical Office Management](https://github.com/Zahra-NAMAOUI/medical-office-management)
-Full-stack healthcare system with patient records, appointments, billing, and role-based access control.  
+Full-stack healthcare system with patient records, appointments, billing, and role-based access control.
 **Stack:** Laravel • PHP • MySQL • JavaScript
 
 ---
 
 ## 🎓 Education
 
-**Diplôme d'Ingénieur — Data Science, Big Data & IA** | ENSA Agadir *(2025–Present)*  
-**Licence — Big Data (Infrastructure & Analyse)** | EST Khenifra *(2024–2025)*  
+**Diplôme d'Ingénieur — Data Science, Big Data & IA** | ENSA Agadir *(2025–Present)*
+**Licence — Big Data (Infrastructure & Analyse)** | EST Khenifra *(2024–2025)*
 **Technicien Spécialisé — Web Full Stack** | ISTA NTIC Béni Mellal *(2022–2024)*
 
 ---
 
 ## 📜 Certifications
 
-• Supervised Machine Learning — DeepLearning.AI (Stanford)  
+• Supervised Machine Learning — DeepLearning.AI (Stanford)
 • Python Essentials — Cisco Networking Academy
 
 ---
