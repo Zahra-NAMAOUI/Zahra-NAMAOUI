@@ -56,7 +56,7 @@ Full-stack healthcare system with patient records, appointments, billing, and ro
 ## 🎓 Education
 
 **Diplôme d'Ingénieur — Data Science, Big Data & IA** | ENSA Agadir *(2025–Present)*  
-**Licence — Big Data (Infrastructure & Analyse)** | EST Khenifra *(2024–2025)*  
+**Licence — Big Data (Infrastructure & Analyse)** | EST Fkih ben salah *(2024–2025)*  
 **Technicien Spécialisé — Web Full Stack** | ISTA NTIC Béni Mellal *(2022–2024)*
 
 ---
