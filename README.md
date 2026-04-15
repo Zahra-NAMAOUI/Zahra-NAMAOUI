@@ -63,7 +63,7 @@ Full-stack healthcare system with patient records, appointments, billing, and ro
 
 ## 📜 Certifications
 
-• Supervised Machine Learning — DeepLearning.AI
+• Supervised Machine Learning (DeepLearning.AI).
 • Python Essentials — Cisco Networking Academy
 
 ---
