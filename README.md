@@ -1,12 +1,15 @@
-[<h1 align="center">Hi 👋, I'm Fatimazahra Namaoui</h1>
-<h2> Data & AI Engineering Student | Big Data Architecture | LLM Systems </h2>
-<h3>Engineering student specializing in Data Science, Big Data & AI, with a double competence in Full Stack development. Building production-ready ML systems, RAG architectures, and scalable data pipelines. Passionate about bridging the gap between data engineering and intelligent applications.</h3>
+<h1 align="center">Hi 👋, I'm Fatimazahra Namaoui</h1>
+<h3 align="center">Data & AI Engineering Student | Big Data • LLM Systems • Full Stack</h3>
 
-📍 Agadir, Morocco | 🎓 ENSA Agadir | 🔍 Seeking PFA Internship 2026
+<p align="center">
+  Engineering student at ENSA Agadir, specializing in Data Science, Big Data & AI.<br/>
+  Building ML systems, RAG architectures, and scalable data pipelines.<br/>
+  📍 Agadir, Morocco | 🔍 Seeking PFA Internship 2026
+</p>
 
 ---
 
-## 🛠️ Engineering Stack
+## 🛠️ Tech Stack
 
 **AI & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -32,60 +35,52 @@
 
 ## 📌 Featured Projects
 
-### 🤖 LLM Chatbot with RAG Architecture *(Personal Project)*
-Conversational AI system leveraging local LLMs (Ollama), featuring retrieval-augmented generation, containerized deployment, and RESTful API architecture.
-- **Stack:** Python, FastAPI, Docker, Ollama, RAG
-- **Focus:** LLM integration, API design, containerization
+### 🤖 [AI Chatbot with LLM & RAG](https://github.com/Zahra-NAMAOUI/AI-Chatbot-with-LLM-)
+Conversational AI system using local LLMs (Ollama) with retrieval-augmented generation, containerized deployment, and REST API.
+**Stack:** Python • FastAPI • Docker • Ollama • RAG
 
-### 🌱 Plant Disease Detection System *(Academic)*
-End-to-end computer vision pipeline using deep CNNs (TensorFlow) for automated crop disease diagnosis from leaf imagery, with data augmentation and performance optimization.
-- **Stack:** Python, TensorFlow, Keras, OpenCV, Computer Vision
-- **Focus:** Deep learning, image processing, model evaluation
+### 🌱 [Plant Disease Detection](https://github.com/Zahra-NAMAOUI/plant-disease-detection)
+Deep CNN pipeline (TensorFlow) for automated crop disease diagnosis from leaf images, with data augmentation and model evaluation.
+**Stack:** Python • TensorFlow • Keras • OpenCV
 
-### 💧 WaterSaver - IoT Agricultural Intelligence *(Academic)*
-Smart water management platform integrating IoT sensors with real-time anomaly detection, Oracle database architecture, and predictive analytics for irrigation optimization.
-- **Stack:** IoT, Oracle PL/SQL, Python, Data Engineering
-- **Focus:** Real-time data, database design, IoT integration
+### 💧 [WaterSaver — IoT Agricultural Intelligence](https://github.com/Zahra-NAMAOUI/watersaver-iot)
+Smart water management platform with IoT sensors, real-time anomaly detection, and Oracle DB architecture for irrigation optimization.
+**Stack:** IoT • Oracle PL/SQL • Python • Data Engineering
 
-### 🏥 Medical Office Management Platform *(Professional Internship)*
-Full-stack healthcare management system with patient records, appointment scheduling, billing workflows, and role-based access control.
-- **Stack:** Laravel, PHP, MySQL, JavaScript, Git
-- **Focus:** System architecture, database relations, UI/UX
+### 🏥 [Medical Office Management](https://github.com/Zahra-NAMAOUI/medical-office-management)
+Full-stack healthcare system with patient records, appointments, billing, and role-based access control.
+**Stack:** Laravel • PHP • MySQL • JavaScript
 
 ---
 
 ## 🎓 Education
 
-**Diplôme d'Ingénieur - Data Science, Big Data & Intelligence Artificielle**  
-*ENSA Agadir* (2025–Present)
-
-**Licence - Infrastructure, Traitement et Analyse de Données Massives (Big Data)**  
-*EST Khenifra* (2024–2025)
-
-**Diplôme de Technicien Spécialisé - Développement Digital (Web Full Stack)**  
-*ISTA NTIC Béni Mellal* (2022–2024)
+**Diplôme d'Ingénieur — Data Science, Big Data & IA** | ENSA Agadir *(2025–Present)*
+**Licence — Big Data (Infrastructure & Analyse)** | EST Khenifra *(2024–2025)*
+**Technicien Spécialisé — Web Full Stack** | ISTA NTIC Béni Mellal *(2022–2024)*
 
 ---
 
-## 📜 Certifications & Languages
+## 📜 Certifications
 
-**Certifications:**  
-• Supervised Machine Learning — DeepLearning.AI (Stanford)  
+• Supervised Machine Learning — DeepLearning.AI (Stanford)
 • Python Essentials — Cisco Networking Academy
 
-**Languages:**  
-🇲🇦 Arabe (Native) | 🇫🇷 Français (B2) | 🇬🇧 English (A2)
+---
+
+## 🌐 Languages
+
+🇲🇦 Arabic (Native) | 🇫🇷 French (B2) | 🇬🇧 English (Intermediate)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fz-namaoui)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fatimazahranamaoui90@gmail.com)
 
-**Open for PFA Internship opportunities in:** Machine Learning Engineering | Data Engineering | LLM/RAG Systems | Full-Stack Data Products
+**Open for PFA Internship 2026** — ML Engineering • Data Engineering • LLM/RAG • Full-Stack
 
 ---
 
 *Clean code. Scalable systems. Data-driven solutions.*
-](https://github.com/Zahra-NAMAOUI/watersaver-iot)
