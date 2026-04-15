@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatimazahra Namaoui</h1>
+[<h1 align="center">Hi 👋, I'm Fatimazahra Namaoui</h1>
 <h2> Data & AI Engineering Student | Big Data Architecture | LLM Systems </h2>
 <h3>Engineering student specializing in Data Science, Big Data & AI, with a double competence in Full Stack development. Building production-ready ML systems, RAG architectures, and scalable data pipelines. Passionate about bridging the gap between data engineering and intelligent applications.</h3>
 
@@ -88,3 +88,4 @@ Full-stack healthcare management system with patient records, appointment schedu
 ---
 
 *Clean code. Scalable systems. Data-driven solutions.*
+](https://github.com/Zahra-NAMAOUI/watersaver-iot)
